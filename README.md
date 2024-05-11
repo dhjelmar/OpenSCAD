@@ -1,5 +1,5 @@
 # OpenSCAD
-3D Printing
+A place for me to keep [OpenSCAD](https://openscad.org/) notes and example uses for 3D Printing
 
 ## Contents
 
