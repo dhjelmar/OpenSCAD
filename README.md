@@ -29,7 +29,7 @@
 ## Contents
 
 - Ski binding jig and templates in ski_binding_jig
-  - [source for original and everythin in `3d-ski-binding-jig-model_files` folder](https://www.printables.com/model/300217-3d-ski-binding-jig)
+  - Templates in folder: `3d-ski-binding-jig-model_files` [(source)](https://www.printables.com/model/300217-3d-ski-binding-jig)
   - `mybindings.scad` = my modifications for select ski binding templates (work in progress)
   
 - Learning
