@@ -1,11 +1,18 @@
 # OpenSCAD
 A place for me to keep [OpenSCAD](https://openscad.org/) notes and example uses for 3D Printing
 
-## Contents
-
-- Ski binding jig and templates in folder: ski_binding_jig
-  - Coplied templates in folder: `3d-ski-binding-jig-model_files` [(source)](https://www.printables.com/model/300217-3d-ski-binding-jig)
+## ORINGINALS_AND_MODIFICATIONS
   - `mybindings.scad` = my modifications for select ski binding templates (work in progress)
+
+
+## LEARNING
+
+
+## COPIED
+
+Everything here was copied from someone else. Hopefully I've done well adding source references.
+
+- ski_binding_jig = ski binding jig and templates for specific bindings [(source)](https://www.printables.com/model/300217-3d-ski-binding-jig)
   
 - Learning
   - `car.scad`
@@ -14,6 +21,7 @@ A place for me to keep [OpenSCAD](https://openscad.org/) notes and example uses 
 
 
 ## OpenSCAD instructions
+- Linux launch: openscad [options] file.scad
 - Navigation (L/R/M = Left/Right mouse; W = scroll Wheel; S = Shift; C = Control)
 
   | Shortcut | Description |
@@ -35,4 +43,4 @@ A place for me to keep [OpenSCAD](https://openscad.org/) notes and example uses 
 
 ## References
 - [Documentation](https://openscad.org/documentation.html)
-- [Cheatsheet](https://www.newpaltz.edu/media/school-of--education/slideshow/cie/OpenSCAD%20CheatSheet.pdf) from NewPaltz
+- [Cheatsheet](https://openscad.org/cheatsheet/index.html)
