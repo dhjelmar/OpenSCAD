@@ -4,13 +4,16 @@
 ## OpenSCAD instructions
 - Navigation (L/R/M = Left/Right mouse; W = scroll Wheel; S = Shift; C = Control)
 
-  | Action | Shortcut | Description |
-  | :----- | :------- | :--------------------------------------------- |
-  | Rotate view | L        | Rotates view somewhat preserving vertical axis |
-  |        | S-L | Rotate view |
-  | Move view | R   | Move viewing area |
-  | Zoom   | W | Depress scroll wheel |
-  |        | S-R | |
+  | Shortcut | Description |
+  | :------- | :--------------------------------------------- |
+  | L        | Rotates view somewhat preserving vertical axis |
+  | S-L      | Rotate view |
+  | R        | Translate viewing area |
+  | W        | Zoom (depress scroll wheel) |
+  | S-R      | Zoom |
+  | C-3      | Show/hide rotation center |
+  | C-0      | Reset rotation |
+  | C-S-0    | Reset translation |
 
 
 ## References
