@@ -2,10 +2,7 @@
 3D Printing
 
 ## OpenSCAD instructions
-- Navigation (L = Left mouse; R = Right mouse; W = mouse scroll Wheel; S = Shift; C = Control)
-  - L: Rotates view somewhat preserving vertical axis
-  - S-L: Rotate view
-  - R: Move viewing area
+- Navigation (L/R = Left/Right mouse; W = scroll Wheel; S = Shift; C = Control)
 
   | Shortcut | Description |
   | :------- | :--------------------------------------------- |
