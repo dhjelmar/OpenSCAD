@@ -15,6 +15,11 @@
   | C-0      | Reset rotation |
   | C-S-0    | Reset translation |
 
+- View Options
+  - C-1: Show edges
+  - C-2: Show faces
+
+
 
 ## References
 - [Documentation](https://openscad.org/documentation.html)
