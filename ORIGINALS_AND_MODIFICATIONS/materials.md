@@ -1,0 +1,18 @@
+# SSL Nylon PA12
+- used for Staresso cup adapter with a satin finish ($100 for 4 parts)
+- material properties and description (https://craftcloud3d.com/material-guide/sls-nylon-pa12)
+  - Nylon PA12 (Polyamide) is a fantastic all-round material with high precision that is also good value for money. When thin, it is flexible enough for springs – when thick, it is strong enough for functional parts. Thanks to that strength and flexibility, it is extremely versatile and suitable for many varied applications. It comes in a variety of colors, and its surface can be polished and dyed. This material is 3D printed on industrial grade 3D printers for the highest quality, using a process called Selective Laser Sintering. PA12 absorbs less water than PA6, but PA6 is stronger than PA12.
+  - Properties
+    - Strong
+    - Heat resistant
+    - Functional
+    - Visual
+    - Food safe
+  - Mechanical properties
+    - Tensile strength 46 - 51 MPa
+    - Tensile modulus 1600 - 1850 MPa
+    - Tensile elongation 18 - 25%
+    - Flexural strength 46.3 - 58 MPa
+    - Flexural modulus 1300 - 1630 MPa
+    - HDT (0.45 MPa) 140 - 147°C
+    - HDT (1.8 MPa) 82 - 86°C
